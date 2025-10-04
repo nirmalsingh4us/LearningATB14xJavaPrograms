@@ -1,7 +1,6 @@
-package ex_10_For_loop;
+package ex_11_While_loop;
 
 import java.util.Scanner;
-import java.util.SequencedSet;
 
 public class Task_Factorial_HR {
     public static void main(String[] args) {
