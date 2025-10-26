@@ -1,5 +1,6 @@
 package ex_16_Arrays;
 
+import java.util.Arrays;
 import java.util.Scanner;
 
 public class Lab_154_Array_user_input {
@@ -17,8 +18,11 @@ public class Lab_154_Array_user_input {
 
         }
         System.out.println("---- print the value");
+        Arrays.sort(numbers_marks);
         for( String marks : numbers_marks){
             System.out.println(marks);
         }
+
+
     }
 }
