@@ -1,4 +1,4 @@
-package ex_23_OOPs_abstraction.Superkeyword;
+package ex_23_OOPs_super_abstraction.Superkeyword;
 
 public class Lab_180_superkeyword {
 }
