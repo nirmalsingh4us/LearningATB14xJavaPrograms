@@ -1,7 +1,6 @@
-package ex_30_Collection_framework;
+package ex_30_Collection_framework.CF_01_List;
 
 import java.util.ArrayList;
-import java.util.Iterator;
 import java.util.List;
 
 public class Lab_230_Arraylist_95 {

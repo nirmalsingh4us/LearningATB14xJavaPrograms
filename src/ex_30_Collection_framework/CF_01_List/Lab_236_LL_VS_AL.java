@@ -1,4 +1,4 @@
-package ex_30_Collection_framework;
+package ex_30_Collection_framework.CF_01_List;
 
 public class Lab_236_LL_VS_AL {
     public static void main(String[] args) {

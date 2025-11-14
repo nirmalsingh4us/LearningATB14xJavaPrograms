@@ -1,6 +1,5 @@
-package ex_30_Collection_framework;
+package ex_30_Collection_framework.CF_01_List;
 
-import java.sql.Array;
 import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.List;
